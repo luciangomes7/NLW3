@@ -1,4 +1,4 @@
-#page-orphaneges{
+#page-orphanages{
     width: 100%;
     height: 100%;
 
@@ -29,6 +29,11 @@ aside p{
 
 aside footer p{
     margin-top: .8rem;
+}
+
+#mapid { 
+    height: 100%;
+    width: 100%; 
 }
 
 /*button*/
